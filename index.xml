@@ -4,13 +4,17 @@
   xmlns:wfw="http://wellformedweb.org/CommentAPI/">
   <channel>
     <title>Dilettante Dad</title>
-    <link>http://localhost:1313/dilettantedad.github.io/</link>
+    <link>https://ianmcgonigle.github.io/dilettantedad.github.io/</link>
     <description>Recent content on Dilettante Dad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Feb 2025 15:53:34 -0500</lastBuildDate><atom:link href="http://localhost:1313/dilettantedad.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sat, 08 Feb 2025 19:06:00 -0500</lastBuildDate><atom:link href="https://ianmcgonigle.github.io/dilettantedad.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Hitting the Slopes</title>
+      <link>https://ianmcgonigle.github.io/dilettantedad.github.io/posts/skiing/</link>
+      <pubDate>Sat, 08 Feb 2025 19:06:00 -0500</pubDate><guid>https://ianmcgonigle.github.io/dilettantedad.github.io/posts/skiing/</guid>
+      <description>&lt;h1 id=&#34;hitting-the-slopes&#34;&gt;Hitting the Slopes&lt;/h1&gt;&#xA;&lt;p&gt;Today we decided to forgo our regularly scheduled Saturday activities and take the boys skiing. While the Greater-Toronto-Area is not known for its mountainous terrain, there are several small ski hills within an hours drive of the city. We chose to go to a ski park on the Niagara escarpment called Glen Eden in Milton, where I grew up, and where I spent many evenings skiing.&lt;/p&gt;&#xA;&lt;p&gt;The original plan had been that I would have taken Grant, and Truman would have stayed home with Kari. This caused Truman to get very upset. Kari offered to come and so that I would not have to supervise two children on the &amp;ldquo;mountain&amp;rdquo;, but she was not exactly thrilled with the idea of skiing. She did not grow up skiing, she had been exactly once and never felt in control going down the hill.&#xA;To add to her reservations, we had been unable to secure rentals or lessons beforehand. We had been instructed to call Glen Eden the day of our desired outing to see if rentals and lessons would be available. This is the type of non-formalized plan that makes Kari uncomfortable.&lt;/p&gt;</description></item><item>
       <title>Hello World</title>
-      <link>http://localhost:1313/dilettantedad.github.io/posts/helloworld/</link>
-      <pubDate>Fri, 07 Feb 2025 15:53:34 -0500</pubDate><guid>http://localhost:1313/dilettantedad.github.io/posts/helloworld/</guid>
+      <link>https://ianmcgonigle.github.io/dilettantedad.github.io/posts/helloworld/</link>
+      <pubDate>Fri, 07 Feb 2025 15:53:34 -0500</pubDate><guid>https://ianmcgonigle.github.io/dilettantedad.github.io/posts/helloworld/</guid>
       <description>&lt;h1 id=&#34;this-has-been-a-long-time-comming&#34;&gt;This has been a long time comming&amp;hellip;.&lt;/h1&gt;&#xA;&lt;p&gt;There are many reasons for me to start writing in something like a journal. As I get older my memory does not serve me as well as it used to. Writing down what happened, who was involved, and how I felt about it, will help me forge stronger memories in the first place, as well function as a reference I can look back on in the future.&lt;/p&gt;</description></item></channel>
 </rss>
